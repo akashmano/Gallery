@@ -25,11 +25,14 @@ Publish the website in the given URL.
 # PROGRAM :
 <!DOCTYPE html>
 <html lang="en">
-<head>
+
+    <head>
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>France</title>
     <style>
+        
         body {
             font-family: Arial, sans-serif;
             margin: 0;
